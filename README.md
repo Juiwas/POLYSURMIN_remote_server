@@ -11,10 +11,10 @@
 
 ```
 │   manage.py  
-│   req.txt 
+│   req.txt  [файл с необходимыми библиотеками] 
 ├───TEST_SERVER
 │   └───swan_server_test.py
-├───static/admin
+├───static/admin [папка джайнго] 
 │   │   css
 │   │   img
 │   └───js
@@ -28,13 +28,13 @@
 │   │   tests.py
 │   │   urls.py
 │   │   views.py
-│   ├───app
+│   ├───app  [файлы индустриального ПО] 
 │   │   │   swan.exe 
 │   │   │   swanrun
 │   │   │   template.swn
 │   │   └───bathymetry
 │   │          └───port_not_bathy_25m_vobst_exp.bot
-│   └───migrations
+│   └───migrations [папка джайнго]  
 └────swanweb
     │   __init__.py
     │   asgi.py
