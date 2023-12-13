@@ -14,7 +14,7 @@
 │   req.txt  [файл с необходимыми библиотеками] 
 ├───TEST_SERVER
 │   └───swan_server_test.py
-├───static/admin [папка джайнго] 
+├───static/admin [папка Django] 
 │   │   css
 │   │   img
 │   └───js
@@ -34,7 +34,7 @@
 │   │   │   template.swn
 │   │   └───bathymetry
 │   │          └───port_not_bathy_25m_vobst_exp.bot
-│   └───migrations [папка джайнго]  
+│   └───migrations [папка Django]  
 └────swanweb
     │   __init__.py
     │   asgi.py
